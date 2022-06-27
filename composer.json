@@ -1,6 +1,6 @@
 {
-    "name": "reliese/laravel",
-    "description": "Reliese Components for Laravel Framework code generation.",
+    "name": "neslonso/laravel-model-generator",
+    "description": "Fork de reliese/laravel para uso interno.",
     "keywords": ["reliese", "laravel"],
     "homepage": "http://cristianllanos.com",
     "support": {
